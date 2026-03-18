@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pritam Dev</title>
+</head>
+<body>
+
+  <h1>Hello, I am Pritam 🚀</h1>
+  <p>I am a Web Developer</p>
+
+  <button onclick="showMessage()">Click Me</button>
+
+  <script>
+    function showMessage() {
+      alert("Welcome to my first jay shree radha website 😎");
+    }
+  </script>
+
+</body>
+</html>
